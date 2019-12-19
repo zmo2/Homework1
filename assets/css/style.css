@@ -63,7 +63,10 @@ H2{
     height: 30px;
     color: white;
     text-align: center;
-    padding:15px;
+    padding-top:15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
     position: relative;
 }
 
@@ -102,7 +105,7 @@ H2{
     padding-top: 20px;
     padding-bottom: 15px;
     border-bottom-style: solid;
-    border-bottom-color: #777777;
+    border-bottom-color: lightgrey;
     border-bottom-width: 2px;
 }
 
@@ -132,6 +135,7 @@ H2{
     height:100px;
     width: 890px;
     margin: 5px;
+    border-color: lightgrey;
 }
 
 .smbox{
