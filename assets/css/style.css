@@ -81,12 +81,6 @@ H2{
     height: fit-content;
 }
 
-/* .clearfix::after {
-    content: "";
-    clear: both;
-    display: none;
-  } */
-
 #fter{
     text-align: center;
     height:30px;
@@ -161,7 +155,7 @@ H2{
     position: relative;
     text-align: center;
     width: 900px;
-    height: 80vh;
+    height: 100vh;
 }
 
 .projname{
